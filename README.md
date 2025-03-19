@@ -33,7 +33,7 @@ ABTCare aligns with the following SDGs:
 | **Edit Record** | Modify existing patient details, including treatment progress. |
 | **Add Record** | Append new cases with required patient and incident details. |
 | **Delete Record** | Remove outdated or incorrect records with confirmation. |
-| **Search Record** | Locate patient cases using two search methods:<br> &nbsp; &nbsp; **[1] Search by any data** – Find records by matching any field value.<br> &nbsp; &nbsp; **[2] Search by specific field** – Search based on a selected field (e.g., Patient ID, name, age, vaccination status). |
+| **Search Record** | Locate patient cases using two search methods:<br> &nbsp; &nbsp; **[1] Search by any data** – Find records by matching any field value.<br> &nbsp; &nbsp; **[2] Search by specific field** – Search based on a selected field (e.g., Patient ID, name, age, animal type, vaccination status). |
 
 ## ⚙️ Prerequisites
 Before running ABTCares, ensure you have:
