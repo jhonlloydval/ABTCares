@@ -38,7 +38,7 @@ In response to these issues, **ABTCares is a console-based application in Python
 ## 🌍 Sustainable Development Goals (SDGs) Alignment
 ![ABTCares](images/ABTCares_SDGs.png)  
 
-ABTCare aligns with the following SDGs:
+ABTCares aligns with the following SDGs:
 - **SDG 3: Good Health and Well-being** – Ensures proper tracking and follow-up of animal bite cases to prevent serious infections.
 - **SDG 9: Industry, Innovation, and Infrastructure** – Utilizes digital tools to improve healthcare efficiency.
 - **SDG 11: Sustainable Cities and Communities** – Supports public health initiatives by organizing case data for better medical response.
