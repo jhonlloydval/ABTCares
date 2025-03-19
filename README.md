@@ -1,10 +1,10 @@
-# ABTCare: Animal Bite Treatment and Case Reporting Management System
+# ABTCares: Animal Bite Treatment and Care Management System
 
 ## 📌 Project Overview
-ABTCare is a Python-based console application designed to manage patient records related to animal bite incidents. It allows healthcare workers to efficiently log, update, and search for patient details, track treatment progress, and ensure proper medical follow-ups. The system follows Object-Oriented Programming (OOP) principles for modularity and maintainability.
+ABTCares is a Python-based console application designed to manage patient records related to animal bite incidents. It allows healthcare workers to efficiently log, update, and search for patient details, track treatment progress, and ensure proper medical follow-ups. The system follows Object-Oriented Programming (OOP) principles for modularity and maintainability.
 
 ## 📖 About the Project
-Animal bite incidents require proper medical intervention to prevent complications such as rabies infection. ABTCare simplifies the process by providing a structured system to record, manage, and analyze patient cases, ensuring timely treatment and monitoring.
+Animal bite incidents require proper medical intervention to prevent complications such as rabies infection. ABTCares simplifies the process by providing a structured system to record, manage, and analyze patient cases, ensuring timely treatment and monitoring.
 
 ## 🎯 Objectives
 - Provide a structured system for recording animal bite incidents.
@@ -32,18 +32,18 @@ ABTCare aligns with the following SDGs:
 ✅ **User-Friendly Menu System** – Easy navigation using numerical inputs.
 
 ## ⚙️ Prerequisites
-Before running ABTCare, ensure you have:
+Before running ABTCares, ensure you have:
 - Python 3.x installed
 - Terminal or command prompt access
 
 ## 🚀 Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/ABTCare.git
+   git clone https://github.com/yourusername/ABTCares.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd ABTCare
+   cd ABTCares
    ```
 3. Run the program:
    ```sh
