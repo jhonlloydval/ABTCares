@@ -29,15 +29,15 @@ ABTCare aligns with the following SDGs:
 
 | Feature              | Description |
 |----------------------|-------------|
-| ✅ **Read Patient Records** | Display all patient records or search for a specific one by ID. |
-| ✅ **Add New Patient Records** | Append new cases with required patient and incident details. |
-| ✅ **Edit Records** | Update patient and treatment details as needed. |
-| ✅ **Delete Records** | Remove outdated or incorrect records with confirmation. |
-| ✅ **Search Records** | Find patient cases based on specific criteria: |
-|  &nbsp; &nbsp; 📌 Animal Type | Search by animal type (e.g., dogs, cats, others). |
-|  &nbsp; &nbsp; 📌 Demographics | Filter by age group (minors, adults) or gender. |
-|  &nbsp; &nbsp; 📌 Vaccination Status | Search based on human or animal vaccination status. |
-|  &nbsp; &nbsp; 📌 Treatment Progress | View cases by treatment status (ongoing, completed). |
+| **Read Patient Records** | Display all patient records or search for a specific one by ID. |
+| **Add New Patient Records** | Append new cases with required patient and incident details. |
+| **Edit Records** | Update patient and treatment details as needed. |
+| **Delete Records** | Remove outdated or incorrect records with confirmation. |
+| **Search Records** | Find patient cases based on specific criteria: |
+|  &nbsp; &nbsp; * Animal Type | Search by animal type (e.g., dogs, cats, others). |
+|  &nbsp; &nbsp; * Demographics | Filter by age group (minors, adults) or gender. |
+|  &nbsp; &nbsp; * Vaccination Status | Search based on human or animal vaccination status. |
+|  &nbsp; &nbsp; * Treatment Progress | View cases by treatment status (ongoing, completed). |
 
 ## ⚙️ Prerequisites
 Before running ABTCares, ensure you have:
