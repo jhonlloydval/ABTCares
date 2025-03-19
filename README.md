@@ -69,7 +69,7 @@ Before running ABTCares, ensure you have:
 ## 👨‍💻 About the Developer
 Hello! I am **Jhon Lloyd Valencia**, a first-year Computer Science student specializing in **software engineering** and is currently learning **data science**. This project is aligned with the midterm output for computer programming II course which is focused on databases, specifically CSV. 
 
-## 📖 About This Project  
+## 📖 Project Inspiration  
 
 I took high inspiration for this project from my **Grade 12 work immersion experience** at the **Animal Bite Treatment Center (ABTC)** in the **City Health Office of Lucena**. My role involved:  
 
