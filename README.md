@@ -84,7 +84,7 @@ During my time there, I noticed significant challenges in **manual record-keepin
 **Prone to errors** – Incorrect data, misspellings, and misleading information affected records  
 **Management inefficiencies** – Inconsistent documentation impacted patient care  
 
-💡 These issues inspired me to create **ABTCares**, a program designed to improve **record-keeping efficiency** and **minimize errors** in ABTC operations.  
+These issues inspired me to create **ABTCares**, a program designed to improve **record-keeping efficiency** and **minimize errors** in ABTC operations.  
 
 I hope that **ABTCares** will evolve into a **fully implemented system** that can **genuinely assist** ABTC facilities in managing patient records more efficiently.
 
