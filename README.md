@@ -67,7 +67,7 @@ Before running ABTCares, ensure you have:
 - Provide **automated report generation** for medical professionals.
 
 ## 👨‍💻 About the Developer
-**Jhon Lloyd Valencia** is a first-year Computer Science student specializing in **software engineering** and is currently learning **data science**. Passionate about technology and problem-solving, I enjoys working on projects that apply programming to real-world challenges. This project is aligned with the midterm output for computer programming II course.
+Hello! I am **Jhon Lloyd Valencia**, a first-year Computer Science student specializing in **software engineering** and is currently learning **data science**. This project is aligned with the midterm output for computer programming II course which is focused on databases, specifically CSV. 
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
