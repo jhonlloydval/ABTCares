@@ -17,13 +17,13 @@ In response to these issues, **ABTCares is a console-based application in Python
 ## 🎯 Objectives
 ![ABTCares](images/ABTCares_objectives.png)  
 
-### 📌 General Objectives  
+### General Objectives  
 - **Develop** a structured and efficient system for managing patient records in Animal Bite Treatment Centers (ABTCs).  
 - **Improve** accuracy, accessibility, and organization of patient records to enhance treatment monitoring.  
 - **Support** healthcare professionals by reducing administrative workload and enabling better patient care.  
 - **Facilitate** a transition from manual to digital record-keeping to promote efficiency and consistency.  
 
-### 📌 Specific Objectives  
+### Specific Objectives  
 1. **Design** a digital system to systematically record animal bite incidents and patient details.  
 2. **Reduce** the time required for documentation and retrieval of patient information.  
 3. **Minimize** human errors by automating data entry and ensuring accurate record-keeping.  
