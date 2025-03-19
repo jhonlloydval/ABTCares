@@ -24,20 +24,20 @@ ABTCare aligns with the following SDGs:
 - **SDG 9: Industry, Innovation, and Infrastructure** – Utilizes digital tools to improve healthcare efficiency.
 - **SDG 11: Sustainable Cities and Communities** – Supports public health initiatives by organizing case data for better medical response.
 
-## ✨ Features
+## ✨ Features  
 ![ABTCares](images/ABTCares_features.png)  
 
-✅ **Read Patient Records** – Display all patient records or search for a specific one by ID.
-✅ **Add New Patient Records** – Append new cases with required patient and incident details.
-✅ **Edit Records** – Update patient and treatment details as needed.
-✅ **Delete Records** – Remove outdated or incorrect records with confirmation.
-✅ **Search Records** – Find patient cases based on specific criteria:
-   - Animal type (e.g., dogs, cats, others)
-   - Demographics (e.g., minors, adults, gender-based searches)
-   - Vaccination status (human or animal)
-   - Treatment progress (ongoing, completed cases)
-✅ **Generate Reports (Future Enhancement)** – Summary of cases, pending treatments, and completed cases, exportable as CSV files.
-✅ **User-Friendly Menu System** – Easy navigation using numerical inputs.
+| Feature              | Description |
+|----------------------|-------------|
+| ✅ **Read Patient Records** | Display all patient records or search for a specific one by ID. |
+| ✅ **Add New Patient Records** | Append new cases with required patient and incident details. |
+| ✅ **Edit Records** | Update patient and treatment details as needed. |
+| ✅ **Delete Records** | Remove outdated or incorrect records with confirmation. |
+| ✅ **Search Records** | Find patient cases based on specific criteria: |
+|  &nbsp; &nbsp; 📌 Animal Type | Search by animal type (e.g., dogs, cats, others). |
+|  &nbsp; &nbsp; 📌 Demographics | Filter by age group (minors, adults) or gender. |
+|  &nbsp; &nbsp; 📌 Vaccination Status | Search based on human or animal vaccination status. |
+|  &nbsp; &nbsp; 📌 Treatment Progress | View cases by treatment status (ongoing, completed). |
 
 ## ⚙️ Prerequisites
 Before running ABTCares, ensure you have:
