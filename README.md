@@ -69,6 +69,25 @@ Before running ABTCares, ensure you have:
 ## 👨‍💻 About the Developer
 Hello! I am **Jhon Lloyd Valencia**, a first-year Computer Science student specializing in **software engineering** and is currently learning **data science**. This project is aligned with the midterm output for computer programming II course which is focused on databases, specifically CSV. 
 
+## 📖 About This Project  
+
+I took high inspiration for this project from my **Grade 12 work immersion experience** at the **Animal Bite Treatment Center (ABTC)** in the **City Health Office of Lucena**. My role involved:  
+
+- Talking to patients about their cases  
+- Systematically analyzing and documenting patient concerns  
+- Providing instructions on the treatment process  
+- Recording cases in a patient spreadsheet  
+
+During my time there, I noticed significant challenges in **manual record-keeping**:  
+
+**Time-consuming** – Writing patient records took too long  
+**Prone to errors** – Incorrect data, misspellings, and misleading information affected records  
+**Management inefficiencies** – Inconsistent documentation impacted patient care  
+
+💡 These issues inspired me to create **ABTCares**, a program designed to improve **record-keeping efficiency** and **minimize errors** in ABTC operations.  
+
+I hope that **ABTCares** will evolve into a **fully implemented system** that can **genuinely assist** ABTC facilities in managing patient records more efficiently.
+
 ## 📜 License
 This project is open-source and available under the **MIT License**.
 
