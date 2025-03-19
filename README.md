@@ -25,6 +25,7 @@ ABTCare aligns with the following SDGs:
 - **SDG 11: Sustainable Cities and Communities** – Supports public health initiatives by organizing case data for better medical response.
 
 ## ✨ Features  
+![ABTCares](images/ABTCares_programfeatures.png)  
 
 | Feature              | Description |
 |----------------------|-------------|
