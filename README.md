@@ -9,18 +9,24 @@ ABTCares is a Python-based console application designed to manage patient record
 Animal bite incidents require proper medical intervention to prevent complications such as rabies infection. ABTCares simplifies the process by providing a structured system to record, manage, and analyze patient cases, ensuring timely treatment and monitoring.
 
 ## 🎯 Objectives
+![ABTCares](images/ABTCares_objectives.png)  
+
 - Provide a structured system for recording animal bite incidents.
 - Enable efficient tracking of treatment progress.
 - Improve accessibility and accuracy of patient records.
 - Support healthcare professionals in managing cases effectively.
 
 ## 🌍 Sustainable Development Goals (SDGs) Alignment
+![ABTCares](images/ABTCares_SDGs.png)  
+
 ABTCare aligns with the following SDGs:
 - **SDG 3: Good Health and Well-being** – Ensures proper tracking and follow-up of animal bite cases to prevent serious infections.
 - **SDG 9: Industry, Innovation, and Infrastructure** – Utilizes digital tools to improve healthcare efficiency.
 - **SDG 11: Sustainable Cities and Communities** – Supports public health initiatives by organizing case data for better medical response.
 
 ## ✨ Features
+![ABTCares](images/ABTCares_features.png)  
+
 ✅ **Read Patient Records** – Display all patient records or search for a specific one by ID.
 ✅ **Add New Patient Records** – Append new cases with required patient and incident details.
 ✅ **Edit Records** – Update patient and treatment details as needed.
