@@ -1,6 +1,5 @@
 # ABTCares: Animal Bite Treatment and Care Management System
 
-![ABTCares](images/ABTCares_Main.jpg)  
 
 ## 📌 Project Overview
 ABTCares is a Python-based console application designed to manage patient records related to animal bite incidents. It allows healthcare workers to efficiently log, update, and search for patient details, track treatment progress, and ensure proper medical follow-ups. The system follows Object-Oriented Programming (OOP) principles for modularity and maintainability.
