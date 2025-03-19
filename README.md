@@ -43,7 +43,7 @@ Before running ABTCares, ensure you have:
 ## 🚀 Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/ABTCares.git
+   git clone https://github.com/jhonlloydval/ABTCares.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -57,7 +57,7 @@ Before running ABTCares, ensure you have:
 ## 🖥️ Usage
 1. Run `python main.py` in the terminal.
 2. Navigate through the menu using numerical inputs.
-3. Follow on-screen prompts to enter, edit, search, or delete records.
+3. Follow on-screen prompts to enter, add, edit, search, or delete records.
 4. Press 'X' to exit at any time.
 
 ## 🏗️ Future Enhancements
@@ -67,11 +67,15 @@ Before running ABTCares, ensure you have:
 - Provide **automated report generation** for medical professionals.
 
 ## 👨‍💻 About the Developer
-**Jhon Lloyd Valencia** is a first-year Computer Science student in the Philippines specializing in **software engineering** and **data science**. Passionate about technology and problem-solving, he enjoys working on projects that apply programming to real-world challenges. 
+**Jhon Lloyd Valencia** is a first-year Computer Science student specializing in **software engineering** and is currently learning **data science**. Passionate about technology and problem-solving, I enjoys working on projects that apply programming to real-world challenges. This project is aligned with the midterm output for computer programming II course.
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
 
----
+For suggestions, improvements, or questions about my project "FindThon", feel free to reach out to the developer ^^
 
-🔹 *For contributions, issues, or suggestions, feel free to open a pull request or issue!* 🚀
+## **Let's Connect!**  
+- 📧 **Email**: jhonlloydval@gmail.com  
+- 🐙 **GitHub**: [jhonlloydval](https://github.com/jhonlloydval)  
+- 🚀 **LinkedIn**: [jhonlloydval](https://linkedin.com/in/jhonlloydval)  
+- 📸 **Instagram**: [jhonlloydval](https://instagram.com/jhonlloydval)  
